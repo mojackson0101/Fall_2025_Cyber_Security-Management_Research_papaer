@@ -6,3 +6,4 @@ AI_Driven_Threat_Detection_Summary_update.doc-: is about the Research Paper SUmm
 Michael main Research Paper  ITMS_cybersecurity_mgt_final 1 :- is about the whole research Paper from Introdcution to conclusion .
 Quantum-Integrated Hybrid AI_implementation:- is about the research papaer Implementation (Introduction and related Details)
 Research paper detailed explanation:- is about the research papaer Implementation word document with more deatiled explantion.
+update maade of the research in uploading a video link in summary the research paper https://www.loom.com/share/5b8e689e7dbc415cbddc9c5436150111
